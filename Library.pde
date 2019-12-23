@@ -1,4 +1,6 @@
 graphics G = new graphics();
+math M = new math();
+
 frame F = new frame(10, 40, 200, 100);
 frame F1 = new frame(230, 170, 200, 300);
 
