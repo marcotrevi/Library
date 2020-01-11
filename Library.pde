@@ -11,4 +11,5 @@ void setup() {
 void draw() {
   F.display();
   F1.display();
+  F.axes();
 }
